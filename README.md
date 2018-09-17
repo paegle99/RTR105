@@ -1,6 +1,7 @@
 # RTR105
 Datormācibas kursa elektroniskā klade  
-##             ***Darbības***   
+##             ***2. Nodarbība***   
+##             ***Darbības***    
 **Ctrl+Alt+T** Termināļa atvēršana  
 **Ctrl+Shift+T** Termināli atver vēl vienu izklājlapu    
 **Ctrl+L** Virsmas notīrīšana  
@@ -17,4 +18,13 @@ Datormācibas kursa elektroniskā klade
 **man pwd** Informācija par ierīci    
 **uname** Uzrāda operētājsistēmas veidu  
 **uname -a** Uzrāda operētājsistēmas veidu un informāciju par to  
-**
+##                 ***3.nodarbiba***
+**cp** kopē failu uz konkrētu mapi  
+**rmdir** dzēš konkretu failu vai mapi   
+**cd** izveido konkrētu apakšdirekciju  
+**cd .** konkrēta apakšdirekcija  
+**mv** pārvieto failus
+**nano fails** ļauj rediģet attiecigo failu  
+**echo** attēlo konkrētu darbību  
+**man** ļauj aplūkot darbību iespējas ar konkrētu komandu 
+**mkdir** izveido jaunu mapi direkcija  
