@@ -28,3 +28,5 @@ Datormācibas kursa elektroniskā klade
 **echo** attēlo konkrētu darbību  
 **man** ļauj aplūkot darbību iespējas ar konkrētu komandu 
 **mkdir** izveido jaunu mapi direkcija  
+##                ***4.nodarbība***
+**chmod** darbība ļauj modificēt piekļuvi datiem  
