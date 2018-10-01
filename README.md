@@ -30,3 +30,8 @@ Datormācibas kursa elektroniskā klade
 **mkdir** izveido jaunu mapi direkcija  
 ##                ***4.nodarbība***
 **chmod** darbība ļauj modificēt piekļuvi datiem  
+**python** atver termināli kurā var darbotiesd ar python valdou  
+**ipython** "-"   
+**idle &** ļauj konfigurēt informāciju  
+** 
+

@@ -1,0 +1,89 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  history
+    4  whoami
+    5  who
+    6  ls
+    7  pwd
+    8  nano mans_skripts.sh
+    9  ls-l
+   10  ls -l
+   11  cat mans_skripts.sh 
+   12  ./mans_skripts.sh
+   13  ~/mans_skripts.sh
+   14  ls
+   15  /home/user/mans_skripts.sh
+   16  chmod 764 mans_skripts.sh 
+   17  ls -l
+   18  mans_skripts.sh
+   19  echo $PATH
+   20  ls -l/bin | grep ls
+   21  ls -l /bin | grep ls
+   22  pwd
+   23  PATH=$PATH:~
+   24  echo $PATH
+   25  PATH=$PATH:.
+   26  echo $PATH
+   27  mans_skripts.sh 
+   28  ls -l
+   29  nano mans_skripts.sh 
+   30  pwd
+   31  cd
+   32  pwd
+   33  ls -l
+   34  git clone https://github.com/paegle99/RTR105
+   35  ls -l
+   36  mv mans_skripts.sh RTR105/
+   37  cd RTR105/
+   38  LS -L
+   39  ls -l
+   40  historyhistory
+   41  history
+   42  nano README.md
+   43  nano README.md 
+   44  fg
+   45  ls -l
+   46  history > history_20181001a.txt
+   47  ls -l
+   48  nano git-upload 
+   49  ls -l
+   50  chmod 764 git-upload 
+   51  ls -l
+   52  ./git-upload 20181001_11_45
+   53  firefox
+   54  ls -l
+   55  cd
+   56  rm -r RTR105/
+   57  rm -rf RTR105/
+   58  ls -l
+   59  git clone https://github.com/paegle99/RTR105
+   60  ls -l
+   61  cd RTR105/
+   62  ls -l
+   63  pwd
+   64  python
+   65  ipython
+   66  idle
+   67  idle &
+   68  ls -l
+   69  cat dgr_20181001a.py 
+   70  whereis python
+   71  ls -l
+   72  nano test1.python
+   73  ls -l
+   74  mv test1.python test_1.py
+   75  nano test_1.py 
+   76  python test_1.py 
+   77  nano test_1.py 
+   78  python test_1.py 
+   79  nano test_1.py 
+   80  ./test_1.py
+   81  ls -l
+   82  chmod 764 test_1.py 
+   83  ./test_1.py 
+   84  nano test_1.py 
+   85  ./test_1.py 
+   86  idle test_1.py 
+   87  idle test_1.py &
+   88  ls -l
+   89  history > history_20181001b.txt
